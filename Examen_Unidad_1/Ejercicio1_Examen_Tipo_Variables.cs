@@ -1,8 +1,8 @@
 namespace Examen_Unidad1_POO.Examen_Unidad_1
 {
-    public class Ejercicio1_Examen
+    public class Ejercicio1_Examen_Tipo_Variables
     {
-        public Ejercicio1_Examen()
+        public Ejercicio1_Examen_Tipo_Variables()
         {
             string nombreProducto = "Fertilizante NPK";
             decimal precioPorKg = 35.75m;

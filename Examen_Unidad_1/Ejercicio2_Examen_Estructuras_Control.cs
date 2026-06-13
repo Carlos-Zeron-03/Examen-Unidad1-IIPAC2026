@@ -1,8 +1,8 @@
 namespace Examen_Unidad1_POO.Examen_Unidad_1
 {
-    public class Ejercicio2_Examen
+    public class Ejercicio2_Examen_Estructuras_Control
     {
-        public Ejercicio2_Examen()
+        public Ejercicio2_Examen_Estructuras_Control()
         {
             decimal saldo = 7500m;
             string categoría;
