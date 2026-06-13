@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace Examen_Unidad1_POO.Examen_Unidad_1
 {
     public class Ejercicio2_Examen
